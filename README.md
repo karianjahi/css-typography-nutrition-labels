@@ -31,6 +31,7 @@ css-typography-nutrition-labels/
 ├── styles.css # Stylesheet with typography and layout
 ├── LICENSE # MIT License
 └── README.md # This file
+└── .gitignore # what should not be carried
 ```
 
 
