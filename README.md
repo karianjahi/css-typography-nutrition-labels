@@ -1,11 +1,11 @@
-```markdown
 # CSS Typography Nutrition Labels
 
-![Preview of Nutrition Label](images/preview.png)
 
 ## Overview
 
 This project demonstrates how to create a **nutrition facts label** using semantic HTML and CSS, with a strong focus on **typography**, **layout**, and **accessibility**. The design replicates the familiar format found on food packaging in the United States and is ideal for learning advanced CSS techniques, especially with fonts, spacing, and responsive layout.
+
+![Preview of Nutrition Label](images/preview.png)
 
 ## Features
 
@@ -23,15 +23,16 @@ This project demonstrates how to create a **nutrition facts label** using semant
 
 ## File Structure
 
-```plaintext
+```
 css-typography-nutrition-labels/
 ├── images/
-│   └── preview.png       # Preview image of the nutrition label
-├── index.html            # Main HTML file
-├── styles.css            # Stylesheet with typography and layout
-├── LICENSE               # MIT License
-└── README.md             # This file
+│ └── preview.png # Preview image of the nutrition label
+├── index.html # Main HTML file
+├── styles.css # Stylesheet with typography and layout
+├── LICENSE # MIT License
+└── README.md # This file
 ```
+
 
 ## Getting Started
 
@@ -49,7 +50,7 @@ open index.html  # or double-click in file browser
 ## Design Notes
 
 - The layout uses **flexbox** to align key nutritional values to the right.
-- **CSS utility classes** like `.indent`, `.double-indent`, `.divider`, and `.bold` make the stylesheet modular and reusable.
+- CSS utility classes like `.indent`, `.double-indent`, `.divider`, and `.bold` make the stylesheet modular and reusable.
 - Focus was placed on accurate spacing, hierarchy, and font-weight to mirror official nutrition labels.
 - The `preview.png` provides a visual reference of the final output.
 
@@ -57,8 +58,3 @@ open index.html  # or double-click in file browser
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, and distribute it as you wish.
-
----
-
-Crafted with care to showcase the power of HTML + CSS typography.
-```
